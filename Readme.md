@@ -113,4 +113,8 @@ I am a dedicated **Frontend Web Engineer** with a deep specialization in the mod
 
 Whether you're building digital products, refining your brand, or looking for a collaborator in web design and development, I'd love to connect and contribute!
 
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="50" width="50" alt="linkedIn" > <a href="https://www.linkedin.com/in/tareksaad93/"> Connect Me </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" height="50" width="50" alt="linkedIn" > <a href="https://www.linkedin.com/in/tareksaad93/"> Follow Me </a>
+ </div>
 ---

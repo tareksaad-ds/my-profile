@@ -2,12 +2,14 @@
 
 ## 👨‍💻 TAREK SAAD
 
-![HTML](https://github.com/devicons/devicon/tree/master/icons)
-![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
-![JS](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
-![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
+![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg) ![JS](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) ![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
+
+img[alt=HTML] { width: 50px; aspect-ratio: 1}
+img[alt=CSS] { width: 50px; aspect-ratio: 1}
+img[alt=JS] { width: 50px; aspect-ratio: 1}
+img[alt=TypeScript] { width: 50px; aspect-ratio: 1}
+img[alt=React] { width: 50px; aspect-ratio: 1}
+img[alt=Dart] { width: 50px; aspect-ratio: 1}
 
 ### Senior Javascript Engineer | Frontend Web Engineer | Full-Stack Awareness
 

@@ -115,6 +115,7 @@ Whether you're building digital products, refining your brand, or looking for a 
 
 <div>
   <a href="https://www.linkedin.com/in/tareksaad93/"> LinkedIn </a>
+  <br />
    <a href="https://x.com/Tekoo_LFC"> Follow Me on X </a>
  </div>
 ---

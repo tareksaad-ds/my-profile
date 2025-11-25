@@ -2,16 +2,14 @@
 
 ## 👨‍💻 TAREK SAAD
 
-![HTML](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) ![CSS](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg) ![JS](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) ![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) ![Dart](https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
 
-img[alt=HTML] { width: 50px; aspect-ratio: 1}
-img[alt=CSS] { width: 50px; aspect-ratio: 1}
-img[alt=JS] { width: 50px; aspect-ratio: 1}
-img[alt=TypeScript] { width: 50px; aspect-ratio: 1}
-img[alt=React] { width: 50px; aspect-ratio: 1}
-img[alt=Dart] { width: 50px; aspect-ratio: 1}
-
-### Senior Javascript Engineer | Frontend Web Engineer | Full-Stack Awareness
+### Senior Javascript Engineer
 
 - **📞 Phone:** +201092897982
 - **✉️ Email:** tareksaad.ds@gmail.com

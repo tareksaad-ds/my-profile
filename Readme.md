@@ -2,21 +2,26 @@
 
 ## 👨‍💻 TAREK SAAD
 
+<div >
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="50" height="50"/>
-
+</div>
+<style>
+  div {
+    display: flex;
+    flex-direction: row
+  }
+  </style>
 ### Senior Javascript Engineer
 
 - **📞 Phone:** +201092897982
 - **✉️ Email:** tareksaad.ds@gmail.com
 - **🔗 LinkedIn:** linkedin.com
 - **📍 Location:** Alexandria, Egypt
-- **🔗 GitHub:** [Your GitHub Link Here]
-- **🌐 Website:** [Your Personal Website Link Here]
 
 ---
 

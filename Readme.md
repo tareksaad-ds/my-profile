@@ -13,10 +13,8 @@
 
 ### Senior Javascript Engineer
 
-- **📞 Phone:** +201092897982
-- **✉️ Email:** tareksaad.ds@gmail.com
-- **🔗 LinkedIn:** linkedin.com
-- **📍 Location:** Alexandria, Egypt
+**✉️ Email:** tareksaad.ds@gmail.com
+
 
 ---
 

@@ -15,7 +15,8 @@
     display: flex;
     flex-direction: row
   }
-  </style>
+</style>
+
 ### Senior Javascript Engineer
 
 - **📞 Phone:** +201092897982
